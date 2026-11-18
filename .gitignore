@@ -2,3 +2,4 @@ Data-Science-Project/
 .venv/
 .ipynb_checkpoints/
 __pycache__/
+.vscode/
